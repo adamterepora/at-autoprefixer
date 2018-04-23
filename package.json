@@ -17,7 +17,9 @@
   "author": "Adam Terepora",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^8.3.0",
     "file-system": "^2.2.2",
-    "node-sass": "^4.8.3"
+    "node-sass": "^4.8.3",
+    "postcss": "^6.0.21"
   }
 }
