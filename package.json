@@ -15,5 +15,9 @@
     "url": "https://github.com/adamterepora/at-autoprefixer"
   },
   "author": "Adam Terepora",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "file-system": "^2.2.2",
+    "node-sass": "^4.8.3"
+  }
 }
