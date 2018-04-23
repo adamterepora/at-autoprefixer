@@ -1,0 +1,16 @@
+{
+  "name": "at-autoprefixer",
+  "version": "0.0.1",
+  "description": "Autoprefixer plugin for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autoprefixer",
+    "webpack"
+  ],
+  
+  "author": "Adam Terepora",
+  "license": "ISC"
+}
