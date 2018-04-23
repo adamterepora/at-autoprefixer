@@ -2,7 +2,7 @@
   "name": "at-autoprefixer",
   "version": "0.0.1",
   "description": "Autoprefixer plugin for webpack",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,10 @@
     "autoprefixer",
     "webpack"
   ],
-  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamterepora/at-autoprefixer"
+  },
   "author": "Adam Terepora",
   "license": "ISC"
 }
